@@ -1,0 +1,104 @@
+text,highlighted
+V1.2 - march 2020,0
+About this document,0
+This document has been originally written in english and is the only version for which stichting disroot.org can be held accountable.,0
+"Any translation of this terms of services is a community effort to make the information accessible in other languages and should be taken as such, with no other value than merely informative.",0
+Accepting these terms,0
+By using any of the services provided by disroot.org you agree to be bound by our terms of services.,0
+"So, you should start reading these terms before first using our platform.",0
+Community notice,0
+Disroot is a community and our platform a part of the free software and open source ecosystem.,0
+"We all share servers resources, collaborate and use disroot.org services together.",0
+It is very important that each and everyone of us understands it and feels equally responsible for it.,0
+"So, please keep to the following guidelines so we all get along.",0
+Terms of services,0
+1.,0
+Who can use our services?,0
+Any person who is at least 16 years of age can use the services.,1
+2.,0
+Space limits on disk,0
+Resources are scarce.,0
+"Have in mind that keeping unnecessary files and emails might limit server space, which can lead to less accounts served to others.",0
+Don't litter!,0
+3.,0
+Account expiration,0
+"For safety reasons, disroot.org does not expire unused accounts.",0
+This might be a subject to change if we are forced to save up disk space for other users.,0
+"Such changes in our terms will be announced via all communication channels well in advance.we would rather appreciate people taking responsibility for their account and its impact on disroot resources, and rather delete their account when they decide not to use our services any longer, or purge unused files.",0
+4.,0
+Password,0
+We never keep track of anybody who requests the activation of a disroot account.,0
+"When creating your account, you may either choose security questions and/or adding a secondary email, both of which will allow you to recover your password in case you lose/forget it.",0
+"If you don't set a secondary email or forget the question or the answers to the questions, we won't be able to re-send you the data to access your account again.",0
+Remember as well to periodically change your password: you can do it by login into the user self-service and clicking the 'change password' button.,0
+!,0
+Warning ! lost passwords will lead to un-recoverable cloud file loss.,0
+"To protect yourself from it, you can enable password recovery feature in your personal cloud settings.",0
+5.,0
+Spam and viruses,0
+To avoid having our servers included in blacklists:,0
+We do not allow the use of disroot email accounts to send spam.,1
+Any account caught doing so will be disabled without further notice,1
+If you happen to receive great amount of spam or any suspicious emails please let us know at support@disroot.org so we can investigate it further.,0
+6.,0
+Copyright material,0
+One of the main aims of disroot is to promote free libre and open source software and all kind of copyleft content.,0
+Embrace it and support artists and projects that release their work under those licences.,0
+Uploading and (most of all) publicly sharing copyrighted material on disroot could put other users and disroot.org in serious legal troubles as well as endanger the whole project and the existence of our servers (and all services connected to it) so just don't do it.,0
+7.,0
+Activities not allowed,0
+Do not engage in the following activities through the services provided by disroot.org:,1
+"Harassing and abusing others by engaging in threats, stalking,",1
+Or sending spam.,0
+"Contributing to the discrimination, harassment or harm against any individual or group",0
+"That includes the spread of hate and bigotry through racism, ethnophobia, antisemitism, sexism, homophobia and any other forms of discriminatory behavior.",0
+Contributing to the abuse of others by distributing material where the production process created violence or sexual assault against persons or animals.,0
+Impersonating or portraying another person in a confusing or deceptive manner unless the account is clearly classified as a parody.,0
+"Doxing: the publication of other people's personal data is not allowed because: (i) we cannot assess either the purposes or what consequences it will have for the exposed people, and (ii), it implies too big a legal risk for disroot.org",0
+"Misuse of services by distributing viruses or malware, engaging in a denial of service attack, or attempting to gain unauthorized access to any computer system, including this one.",0
+Activities not permitted by national or international law.,0
+8.,0
+Using disroot services for commercial activities,0
+"Disroot is a non-profit organization providing services for individuals on ""pay as you wish"" basis.",0
+Because of this structure we see using disroot services for commercial purposes as an abuse of the service and it will be treated as such.,0
+"These commercial activities or purposes include, but are not limited to:",0
+Trading any disroot services with a third party.this is prohibited.,0
+"Using email for purposes such as ""no-reply"" type of accounts for a business.if such activity is detected, the account will be blocked without a warning.",0
+"Sending bulk emails, including but not limited to marketing and advertising, for business purposes.",0
+The account will be treated as spam and blocked upon discovery without any prior notice.,0
+"Using disroot services for financial gain, including but not limited to trading or managing sales, is not tolerated.accounts created for the purpose of generating profits will be subject to termination upon inquiry.",0
+Using disroot services for any other commercial activity will be examined per case and the decision on terminating such accounts will be based upon communication with the account holder and the type of the activities in question.,0
+"If you have any doubts or questions about the scope of the term ""commercial activities"", please contact us.",0
+9.,0
+Ownership of and responsibility for content,0
+Disroot.org is not responsible for any content published on any of our services.,0
+"You are responsible for your use of the disroot's services, for any content you provide and for any consequences thereof.",0
+"However, to secure our existence, we reserve the right to remove any content if found in violation with applicable law.",0
+10.,0
+Legal responsibilities,0
+"As for anything else you do, be aware that disroot.org is not responsible for what you write, nor for the safeguard of your own privacy.",0
+We therefore invite you to make the most of all the existing tools to defend your rights.,0
+"To learn more about how your information is being stored and used, please refer to our privacy statement.",0
+11.,0
+Laws,0
+Disroot.org is hosted in the netherlands and therefore is subject to dutch laws and jurisdiction.,1
+12.,0
+Account termination,0
+Disroot.org may terminate your service at any time under the following conditions:,1
+The account has been found to be sending spam (excessive amounts of unsolicited email).,1
+The account has engaged in one or more of the banned activities listed above.,1
+The above conditions are subject to change at any time.,0
+13.,0
+No warranty,0
+You understand and agree that disroot.org provides you primarily with internet-based services.,0
+"Therefore, services are offered as is",1
+", subject to availability and without liability to you.",0
+"As much as we would not like to let any of our users down, we just can not give any warranty as to the reliability, accessibility, or quality of our services",0
+You agree that the use of our services is at your sole and exclusive risk.,0
+14.,0
+Changes on these terms,0
+We reserve the right to modify these conditions at any time.,1
+"We highly evaluate transparency and do our best to make sure users are notified as soon as possible about any major changes via email, social networks and/or on our blog.",1
+Minor changes will most likely only be published on our blog.,1
+You can follow the history of changes on this document on our git repository here,0
+Back to top,0
