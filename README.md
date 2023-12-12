@@ -27,7 +27,8 @@ contracts through memory networks' used for text classification model
 - **Text Summary.ipynb** contained the script to cleaned the crawled ToS into csv format at the sentence level, the script using OpenAI API to feed the cleaned ToS into 'gpt-4-turbo-preview' model and created the output. You need to create your own api keys and stored in local enviorment excuete the script. More information about OpenAI api and keys can be found here: https://openai.com/blog/openai-api
 
 ## Model Result
-- **Text Classification**: The fined-tuned gpt-2 model can be found in following google drive link, due to the size limitation in github. You can used huggingface classification pipline to load the model and make prediction on new sentence, detailed can be found in the last section of **Classification.ipynb** documents.
+- **Text Classification**: The fined-tuned gpt-2 model can be found in following google drive link, https://drive.google.com/drive/folders/1xcUodUCSwTzF89c44PKiEGEFEwFR8--i?usp=sharing
+due to the size limitation in github. You can used huggingface classification pipline to load the model and make prediction on new sentence, detailed can be found in the last section of **Classification.ipynb** documents.
 
 - **Text Highlighting and Simiplification**: model results and gpt-4 output can be found in 'Dataset for Text Summary Model/cleaned/more_than_40_sentences/model_results', within it, the files with 
     - '_baseline.csv' is the hightlighted sentences for result from baseline textrank model.
